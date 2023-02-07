@@ -34,7 +34,7 @@ if (menu === espresso){
     alert('Ваш заказ принят')
 }else if (menu ===americano){
     console.log(starbucks.coffee.americano)
-    alert('Ваш заказ принятп')
+    alert('Ваш заказ принят')
 } else if (menu === latte){
     console.log(starbucks.coffee.latte)
     alert('Ваш заказ принят')
